@@ -1,6 +1,9 @@
 <p align="center"><img src="assets/scifm-banner.png" alt="SciFM banner" width="75%"></p>
 
 
+Citation: 
+
+Menon, Sidharth S. and Mondal, Trishit and Brahmachary, Shuvayan and Panda, Aniruddha and Joshi, Subodh M. and Kalyanaraman, Kaushic and Jagtap, Ameya D., On Scientific Foundation Models:Rigorous Definitions, Key Applications, and a Survey. Available at SSRN: https://ssrn.com/abstract=5409063 or http://dx.doi.org/10.2139/ssrn.5409063
 
 # Scientific Foundation Models (SciFM) — Curated Papers 
 
