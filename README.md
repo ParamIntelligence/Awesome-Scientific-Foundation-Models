@@ -7,7 +7,7 @@ Menon, Sidharth S. and Mondal, Trishit and Brahmachary, Shuvayan and Panda, Anir
 
 # Scientific Foundation Models (SciFM) — Curated Papers 
 
-![Total papers:](https://img.shields.io/badge/Total_papers-84cc16) <!--PAPERS_COUNT-->55<!--/PAPERS_COUNT-->
+![Total papers:](https://img.shields.io/badge/Total_papers-84cc16) <!--PAPERS_COUNT-->59<!--/PAPERS_COUNT-->
 
 
 
@@ -22,14 +22,15 @@ This list tracks research on **scientific foundation models** — large, reusabl
 - [Biomedical Imaging (1)](#biomedical-imaging)
 - [Chaotic Dynamics (3)](#chaotic-dynamics)
 - [Chemistry (7)](#chemistry)
-- [Climate Science (4)](#climate-science)
+- [Climate Science (5)](#climate-science)
 - [Differential Equations (9)](#differential-equations)
 - [Earth Observation (6)](#earth-observation)
 - [Fluid dynamics (1)](#fluid-dynamics)
 - [Fluid Dynamics (3)](#fluid-dynamics)
 - [Material Science (7)](#material-science)
-- [Nuclear Science (1)](#nuclear-science)
+- [Nuclear Science (3)](#nuclear-science)
 - [Robotics (3)](#robotics)
+- [Heliophysics (1)](#heliophysics)
 
 > Grouped by domain
 
