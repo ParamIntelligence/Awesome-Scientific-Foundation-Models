@@ -105,6 +105,7 @@ This list tracks research on **scientific foundation models** — large, reusabl
 
 | Title | Venue/Year | Authors | Links |
 |---|---|---|---|
+| [ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling](https://arxiv.org/abs/2505.04802) | arXiv preprint arXiv:2505.04802 2025 | Xiao Wang, Jong-Youl Choi, Takuya Kurihaya, Isaac Lyngaas, Hong-Jun Yoon, Xi Xiao, David Pugmire, Ming Fan, Nasik M. Nafi, Aristeidis Tsaris, Ashwin M. Aji, Maliha Hossain, Mohamed Wahib, Dali Wang, Peter Thornton, Prasanna Balaprakash, Moetasim Ashfaq, Dan Lu | [Link](https://arxiv.org/abs/2505.04802) |
 | [Aurora: A foundation model of the atmosphere](https://arxiv.org/html/2405.13063v2) | AGU Fall Meeting Abstracts 2024 | Bodnar, Cristian | [Link](https://arxiv.org/html/2405.13063v2) |
 | [Prithvi wxc: Foundation model for weather and climate](https://arxiv.org/abs/2409.13598) | arXiv preprint arXiv:2409.13598 2024 | Schmude, Johannes, Roy, Sujit, Trojak, Will, Jakubik, Johannes, Civitarese, Daniel Salles, Singh, Shraddha, Kuehnert, Julian, Ankur, Kumar et al. | [Link](https://arxiv.org/abs/2409.13598) |
 | [Weathergfm: Learning a weather generalist foundation model via in-context learning](https://arxiv.org/abs/2411.05420) | arXiv preprint arXiv:2411.05420 2024 | Zhao, Xiangyu, Zhou, Zhiwang, Zhang, Wenlong, Liu, Yihao, Chen, Xiangyu, Gong, Junchao, Chen, Hao, Fei, Ben et al. | [PDF](https://arxiv.org/pdf/2411.05420) · [Link](https://arxiv.org/abs/2411.05420) |
@@ -189,6 +190,8 @@ This list tracks research on **scientific foundation models** — large, reusabl
 
 | Title | Venue/Year | Authors | Links |
 |---|---|---|---|
+| [FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics](https://arxiv.org/abs/2508.14087) | arXiv preprint arXiv:2508.14087 2025 | David Park, Shuhang Li, Yi Huang, Xihaier Luo, Haiwang Yu, Yeonju Go, Christopher Pinkenburg, Yuewei Lin, Shinjae Yoo, Joseph Osborn, Jin Huang, Yihui Ren | [Link](https://arxiv.org/abs/2508.14087) |
+| [Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data](https://arxiv.org/abs/2505.08736) | arXiv preprint arXiv:2505.08736 2025 | J. Giroux and C. Fanelli | [Link](https://arxiv.org/abs/2505.08736) |
 | [Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research](https://www.arxiv.org/abs/2506.19863) | arXiv preprint arXiv:2506.19863 2025 | Almeldein, Ahmed, Alnaggar, Mohammed, Archibald, Rick, Beck, Tom, Biswas, Arpan, Bostelmann, Rike, Brewer, Wes, Bryan, Chris et al. | [Link](https://www.arxiv.org/abs/2506.19863) |
 
 ---
@@ -202,6 +205,16 @@ This list tracks research on **scientific foundation models** — large, reusabl
 | [Gr00t n1: An open foundation model for generalist humanoid robots](https://arxiv.org/abs/2503.14734) | arXiv preprint arXiv:2503.14734 2025 | Bjorck, Johan, Casta\~neda, Fernando, Cherniadev, Nikita, Da, Xingye, Ding, Runyu, Fan, Linxi, Fang, Yu, Fox, Dieter et al. | [Link](https://arxiv.org/abs/2503.14734) |
 | [On Foundation Models for Dynamical Systems from Purely Synthetic Data](https://arxiv.org/abs/2412.00395) | arXiv preprint arXiv:2412.00395 2024 | Ziegler, Martin, Posada-Moreno, Andres Felipe, Solowjow, Friedrich, Trimpe, Sebastian | [Link](https://arxiv.org/abs/2412.00395) |
 | [Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/abs/2212.06817) | arXiv preprint arXiv:2212.06817 2022 | Brohan, Anthony, Brown, Noah, Carbajal, Justice, Chebotar, Yevgen, Dabis, Joseph, Finn, Chelsea, Gopalakrishnan, Keerthana, Hausman, Karol et al. | [Link](https://arxiv.org/abs/2212.06817) |
+
+---
+
+## Heliophysics
+
+![Domain: Heliophysics](https://img.shields.io/badge/Domain-Heliophysics-9333ea)
+
+| Title | Venue/Year | Authors | Links |
+|---|---|---|---|
+| [Surya: Foundation Model for Heliophysics](https://arxiv.org/abs/2508.14112) | arXiv preprint arXiv:2508.14112 2025 | Sujit Roy, Johannes Schmude, Rohit Lal, Vishal Gaur, Marcus Freitag, Julian Kuehnert, Theodore van Kessel, Dinesha V. Hegde, Andrés Muñoz-Jaramillo, Johannes Jakubik et al. | [Link](https://arxiv.org/abs/2508.14112) |
 
 ---
 
